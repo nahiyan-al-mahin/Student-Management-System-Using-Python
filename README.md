@@ -26,7 +26,7 @@ All student information is stored persistently using a text file, making it a be
 ## 🛠️ Technologies Used
 
 * **Python 3**
-* File handling (`.txt` file)
+* File handling (**.txt file**)
 * Modular programming approach
 
 ---
@@ -48,9 +48,9 @@ Student Database Management System/
 
 ## ⚙️ How the System Works
 
-* Student data is stored in a text file (`Information_Students.txt`)
+* Student data is stored in a text file (**Information_Students.txt**)
 * Each operation (add, search, modify, delete, display) is handled by a separate Python module
-* `Main_Code.py` controls the program flow
+* **Main_Code.py** controls the program flow
 ---
 
 ## 👤 Author
