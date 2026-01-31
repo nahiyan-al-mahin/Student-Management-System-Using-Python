@@ -34,14 +34,15 @@ All student information is stored persistently using a text file, making it a be
 ## 📂 Project Structure
 
 Student Database Management System/
-** Main_Code.py              # Main program execution
-** Designer.py               # Menu and interface handling
-** A_S_Function.py           # Add student module
-** R_S_Function.py           # Remove student module
-** S_S_Function.py           # Search student module
-** S_M_Function.py           # Modify student module
-** Sh_S_Function.py          # Show all students module
-** Information_Students.txt  # Student data storage file
+│
+├── Main_Code.py # Main program execution
+├── Designer.py # Menu and interface handling
+├── A_S_Function.py # Add student module
+├── R_S_Function.py # Remove student module
+├── S_S_Function.py # Search student module
+├── S_M_Function.py # Modify student module
+├── Sh_S_Function.py # Show all students module
+├── Information_Students.txt # Student data storage file
 
 ---
 
